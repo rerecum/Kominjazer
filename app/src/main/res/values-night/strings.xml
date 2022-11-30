@@ -2,6 +2,22 @@
 <resources>
     <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
     <string name="autocompletetextview">AutoCompleteTextView</string>
-    <string name="select_language">Select language:</string>
     <string name="pierwsze_miasto">Pierwsze miasto</string>
+    <string name="d">Łódź</string>
+    <string name="pozna">Poznań</string>
+    <string name="bia_ystok">Białystok</string>
+    <string name="warszawa">Warszawa</string>
+    <string name="gda_sk">Gdańsk</string>
+    <string name="szczecin">Szczecin</string>
+    <string name="katowice">Katowice</string>
+    <string name="krak_w">Kraków</string>
+    <string name="olsztyn">Olsztyn</string>
+    <string name="kielce">Kielce</string>
+    <string name="zielona_g_ra">Zielona Góra</string>
+    <string name="gorz_w_wielkopolski">Gorzów Wielkopolski</string>
+    <string name="bydgoszcz">Bydgoszcz</string>
+    <string name="toru">Toruń</string>
+    <string name="wroc_aw">Wrocław</string>
+    <string name="lublin">Lublin</string>
+    <string name="opole">Opole</string>
 </resources>
