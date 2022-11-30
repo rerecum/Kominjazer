@@ -33,6 +33,7 @@ Wybór miast które są stolicami województw tzn;
 15. Gorzów Wielkopolski
 16. Lublin
 17. Kielce
+18. Wrocław
 
 Lista tych miast będzie rozwijana i w łatwy sposób można będzie wybrać któreś z tej listy. List wyboru będzie aż 16, gdyż aplikacja ma ułatwić przejazd miedzy miastami tak aby odwiedzić raz jedno miasto i znaleźć najlepsza trasę do następnego i następnego i następnego itd.
 Nie można wybrać mniej niż 16 miast.
